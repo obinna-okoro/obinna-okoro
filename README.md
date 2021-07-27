@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m **@obinna-okoro**,
-- 👀 I hold a Diploma in Computer Science and I’m just starting my Journey in web developement. Currently erolled at Digital Career Institute in Berlin, Germany.
+- 👀 I hold a Diploma in Computer Science and I’m just starting my Journey in web development. Currently enrolled at Digital Career Institute in Berlin, Germany.
 - 💞️ I’m looking to collaborate on web projects that would challenge and enhance my learning.
 - 📫 Reaching me is possible on my email address obinae23@gmail.com
 
