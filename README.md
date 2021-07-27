@@ -1,4 +1,3 @@
-![Obinna](https://pbs.twimg.com/profile_images/1270314960271310848/dVCTTzHL_400x400.jpg)
 - 👋 Hi there, I’m **@obinna-okoro**,
 - 👀 I hold a Diploma in Computer Science and I’m just starting my Journey in web developement. Currently erolled at Digital Career Institute in Berlin, Germany.
 - 💞️ I’m looking to collaborate on web projects that would challenge and enhance my learning.
