@@ -1,7 +1,6 @@
-- Hi there, I’m **@obinna-okoro**,
-- I hold a Diploma in Computer Science and I’m just starting my Journey in web development. Currently enrolled at Digital Career Institute in Berlin, Germany.
+-Hi there, my name is **Obinna Okoro** and I am a Brewing Full-stack Web Developer. Currently enrolled at Digital Career Institute in Berlin, Germany.
 - I’m looking to collaborate on web projects that would challenge and enhance my learning.
-- Reaching me is possible on my email address obinae23@gmail.com
+- Reaching me is possible on my email address obinnae23@gmail.com
 
 <!---
 obinna-okoro/obinna-okoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
