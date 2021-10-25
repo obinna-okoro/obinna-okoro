@@ -3,7 +3,6 @@
 I am Constantly growing skillsets that would set me up to contribute valuably in any workspace. I’m also learning to leverage several frameworks to provide robust web solutions.
 
 My biggest talent is my fast inclination to learning. I am Creative, Resilient (I always find a way) and a Team player.
-- Reaching me is possible on my email address obinnae23@gmail.com
-- Also here's a link to my [Linkedin](https://www.linkedin.com/in/obinna-okoro/)
+- Reaching me is possible on my [Linkedin](https://www.linkedin.com/in/obinna-okoro/)
 
 
